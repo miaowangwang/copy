@@ -52,3 +52,26 @@
 ![222.jpg](D:\本地仓库\测试图片.jpg)
 
 
+
+在文章中插入特定代码
+
+```c
+#include<stdio.h>
+
+int main(void)
+{
+	printf("c测试\n");
+	return 0;
+}
+```
+```cpp
+#include<iostream>
+using namespace std;
+int main(void)
+{
+	cout<<"测试"<<endl;
+
+}
+```
+
+
