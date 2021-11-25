@@ -45,4 +45,9 @@
 [1]:https://www.github.com "GITHUB官方网站"
 [2]:https://git-scm.com "git官方港湾"
 
+测试插入本地图片
+
+![配图](D:\本地仓库\my rep\测试配图.png)
+
+
 
