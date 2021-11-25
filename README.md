@@ -47,7 +47,7 @@
 
 测试插入本地图片
 
-![配图.jpg](D:/本地仓库/my rep/测试图片.jpg)
+![111.jpg](https://i.loli.net/2021/11/25/LKeNvXWlAhuxgnQ.jpg)
 
 
 
