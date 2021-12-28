@@ -26,4 +26,4 @@
 >>> 三级引用文本
 
 
-我们可以将所有的工程师项目打包上传到[GITHUB](https://www.github.com "Github官方网站“)进行托管，开发者可以下载[Git](https://git-scm.com/down "Git下载入口")软件进行项目管理和版本控制
+我们可以将所有的工程师项目打包上传到[GITHUB](https://www.github.com "Github官方网站")进行托管，开发者可以下载[Git](https://git-scm.com/down "Git下载入口")软件进行项目管理和版本控制
