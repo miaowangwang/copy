@@ -39,4 +39,20 @@
 
 ![222.jpg](https://s2.loli.net/2021/12/28/EMgI7uLUWAxNtG4.jpg)
 
+在文章中插入特定代码段
+```bash
+sudo apt-get install git
+```
+
+```c
+#include<stdio.h>
+int main(void)
+{
+	printf("c 语言测试代码..\n");
+	return 0;
+}
+```
+
+
+
 
